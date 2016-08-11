@@ -1,3 +1,4 @@
+#Creates R server for use with Go client programs
 #sudo R shell:
 
 install.packages("corrplot") 
